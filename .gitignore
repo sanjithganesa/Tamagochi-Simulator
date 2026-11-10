@@ -11,3 +11,7 @@ __pycache__/
 
 # Game save files
 save.json
+
+# Pytest
+.pytest_cache/
+tests/
