@@ -42,7 +42,6 @@ Tamagotchi_simulator/
 │   ├── storage.py
 │   └── tamagotchi.py
 │
-├── tests/
 ├── .gitignore
 ├── README.md
 └── requirements.txt

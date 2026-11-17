@@ -15,3 +15,7 @@ save.json
 # Pytest
 .pytest_cache/
 tests/
+
+# Ignore reference and archive files
+REFER_ME.txt
+Tamagotchi-Simulator_PANDIYAN.zip
